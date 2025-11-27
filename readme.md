@@ -7,7 +7,7 @@ Modern GUI (ttkbootstrap) music playlist manager with multiple playlists, doubly
 1. Install dependencies:
 pip install -r requirements.txt
 2. Place audio files in `songs/`.
-3. Start the app:
+3. open the main.py and run file in terminal .
 
 4. Create playlists from the sidebar (e.g., "favourite Songs", "90s Hits"), import songs, and manage each list separately.
 

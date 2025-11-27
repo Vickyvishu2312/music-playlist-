@@ -1,0 +1,8 @@
+pygame
+Pillow
+ttkbootstrap
+opencv-python 
+pillow 
+ttkbootstrap
+
+
